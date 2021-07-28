@@ -14,7 +14,7 @@
   "languages": [{
     "lang": "ua",
     "name": "Ukrainian",
-    "path": "lang/ua.json"
+    "path": "ua.json"
   }],
   "url": "https://github.com/Tapkomet/foundry-vtt-dnd5e-ua",
   "manifest": "https://raw.githubusercontent.com/Tapkomet/foundry-vtt-dnd5e-ua/master/module.json",
