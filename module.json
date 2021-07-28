@@ -1,0 +1,22 @@
+{
+  "name": "FoundryVTT-dnd5e-UA",
+  "title": "Translation: Ukrainian [D&D 5e] | Українська",
+  "description": "Український переклад для системи dnd5e в FoundryVTT.",
+  "version": "1.40.1",
+  "minimumCoreVersion" : "0.8.2",
+  "compatibleCoreVersion": "0.8.8",
+  "author": "Tapkonet",
+  "systems": ["dnd5e"],
+  "esmodules": [],
+  "scripts": [],
+  "styles": ["dnd5eUA.css"],
+  "packs": [],
+  "languages": [{
+    "lang": "ua",
+    "name": "Ukrainian",
+    "path": "lang/ua.json"
+  }],
+  "url": "https://github.com/Tapkomet/foundry-vtt-dnd5e-ua",
+  "manifest": "https://raw.githubusercontent.com/Tapkomet/foundry-vtt-dnd5e-ua/master/module.json",
+  "download": "https://github.com/Tapkomet/foundry-vtt-dnd5e-ua/archive/refs/heads/master.zip"
+}
