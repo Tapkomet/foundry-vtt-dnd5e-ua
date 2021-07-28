@@ -7,4 +7,4 @@
 ### Посилання
 
 * Github: https://github.com/Tapkomet/foundry-vtt-dnd5e-ua
-* Manifest: https://github.com/Tapkomet/foundry-vtt-dnd5e-ua/raw/master/module.json
+* Manifest: https://github.com/Tapkomet/foundry-vtt-dnd5e-ua/master/module.json
